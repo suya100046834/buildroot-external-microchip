@@ -1,0 +1,3 @@
+[submodule "board/suya/sama5d27_handheld/linux"]
+	path = board/suya/sama5d27_handheld/linux
+	url = https://github.com/suya100046834/linux
